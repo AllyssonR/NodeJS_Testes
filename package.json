@@ -1,0 +1,16 @@
+{
+  "name": "NodeJS_Testes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AllyssonR/NodeJS_Testes.git",
+  "author": "AllyssonR <AllyssonR@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
